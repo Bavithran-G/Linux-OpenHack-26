@@ -1,2 +1,0 @@
-Result
-The hosted page was successfully converted from HTTP to HTTPS and verified from another computer.
