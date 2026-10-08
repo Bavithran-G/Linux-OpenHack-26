@@ -16,8 +16,6 @@ Modified the hosted HTML page from another computer and verified the changes.
 ### Task 4 - Multiple Port Hosting
 Hosted a different HTML page on port 8080 and verified its accessibility.
 
-### Task 5 - HTTPS
-Configured HTTPS for the hosted page using an SSL certificate.
 
 ## Repository Structure
 
@@ -27,7 +25,7 @@ Linux-OpenHack-26/
 ├── Task 2/
 ├── Task 3/
 ├── Task 4/
-└── Task 5/
+
 
 ```
 ## Technologies Used
